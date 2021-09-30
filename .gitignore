@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/.name
+/buildSrc/build/libs/buildSrc.jar
+/buildSrc/build/kotlin/buildSrcjar-classes.txt
+/buildSrc/build/tmp/jar/MANIFEST.MF
+/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties
+/buildSrc/build/reports/plugin-development/validation-report.txt
